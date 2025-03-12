@@ -39,7 +39,7 @@ if (BMIMark > BMIJohn) {
 
 ## 🔥 Output Example
 ```
-John's BMI 24.19 is higher than Mark's! (27.31)
+Mark's BMI 27.31 is higher than John's 24.19! 
 ```
 
 ## 💡 Features
